@@ -3,7 +3,7 @@
 
 Curated lists of Leetcode questions group by companies.
 
-A biggest Shout out to Msharma1212 for the awesome [Leetcode](https://github.com/Msharma1212/leetcode-company-wise-problems) repo for solutions.
+A biggest Shout out to Msharma1212 for the awesome [Leetcode]. Do follow for more (https://github.com/Msharma1212/leetcode-company-wise-problems) repo for solutions.
 
 ## Company Index
 1. [APT Portfolio](#apt-portfolio)
