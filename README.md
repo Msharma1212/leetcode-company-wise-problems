@@ -1,7 +1,7 @@
 ![leetcode-company-wise-problems](https://socialify.git.ci/Msharma1212/leetcode-company-wise-problems/image?font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick+Wall&pulls=1&stargazers=1&theme=Light)
 ## Leetcode Company-wise Problem Lists
 
-Curated lists of Leetcode questions group by companies.
+Curated lists of Leetcode questions group by all companies.
 
 A biggest Shout out to Msharma1212 for the awesome [Leetcode]. Do follow for more (https://github.com/Msharma1212/leetcode-company-wise-problems) repo for solutions.
 
